@@ -1,2 +1,0 @@
-/api/who/*  https://ghoapi.azureedge.net/api/:splat  200
-/api/ct/*   https://clinicaltrials.gov/api/v2/:splat  200
